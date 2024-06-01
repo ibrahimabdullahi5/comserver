@@ -1,0 +1,33 @@
+{
+    "users":[
+    
+{
+    "userid": 1,
+    "name": "ibrahim",
+    "age": 20,
+    "email": "ibro@gmail.com"
+   
+},
+
+{
+    "userid": 2,
+    "name": "rukia",
+    "age": 25,
+    "email": "ibro@gmail.com"
+},
+{
+    "userid": 3,
+    "name": "binto",
+    "age": 27,
+    "email": "ibro@gmail.com"   
+}
+
+
+
+    ]
+}
+
+
+
+
+
